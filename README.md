@@ -26,6 +26,7 @@ Ini adalah aplikasi web berbasis **Node.js** dan **Express.js** untuk manajemen 
 * 🎨 **Chalk & Figlet** untuk CLI styling
 * 📂 **FS Module** untuk file handling (jika digunakan)
 * 📦 **Modular Routing**
+* 🌙 **Dark Mode** — Tampilan gelap yang nyaman untuk mata, bisa diaktifkan secara otomatis atau manual
 
 ---
 ![screely-1747283299717](https://github.com/user-attachments/assets/d414fa8a-e6fa-40b7-8e8d-e2584729bde1)
